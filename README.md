@@ -1,2 +1,2 @@
 # Closure-addition
-Adds 2 numbers demonstration closures in Javascript.
+Adds 2 numbers demonstrating closures in Javascript.
